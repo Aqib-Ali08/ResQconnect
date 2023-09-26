@@ -1,11 +1,5 @@
-#include<iostream>
-using namespace std;
-int main( )
+#include<stdio.h>
+int main()
 {
-int a = 10;
-int &r = a; 
-cout << a ;
-r++;
-cout<< r ;
-cout << a ;
+    printf("Hello World");
 }
