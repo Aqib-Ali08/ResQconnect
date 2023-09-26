@@ -2,8 +2,8 @@
 using namespace std;
 int main()
 {
-
-cout<<"Github"<<endl;
+int a= 10,b=20;
+cout<<a+b<<flush;
 }
 /*
 For Loop 1 (Detailed Explanation):
