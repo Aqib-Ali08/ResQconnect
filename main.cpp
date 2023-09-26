@@ -3,17 +3,7 @@ using namespace std;
 int main()
 {
 
-    int sum = 0;
-    for (int i = 1; i < 5; ++i)
-    {
-        sum = sum + i;
-        cout << i << endl;
-    }
-    for (int i = 1; i < 5; i++)
-    {
-        sum = sum + i;
-        cout << i << endl;
-    }
+cout<<"Github"<<endl;
 }
 /*
 For Loop 1 (Detailed Explanation):
